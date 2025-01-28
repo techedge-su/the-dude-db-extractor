@@ -1,0 +1,15 @@
+{
+  "name": "The Dude DB Extractor",
+  "version": "1.0.0",
+  "description": "Decode The Dude sqlite3 DB",
+  "main": "app.js",
+  "dependencies": {
+    "better-sqlite3": "^11.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "Tech Edge",
+  "license": "MIT"
+}
