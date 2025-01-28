@@ -1,6 +1,6 @@
 const Database = require('better-sqlite3');
 
-DB_PATH='/megathron/js/dude_db/ch.db'
+DB_PATH='путь_до_базы_данных'
 
 const db = new Database(DB_PATH);
 
