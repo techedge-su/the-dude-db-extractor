@@ -53,7 +53,7 @@ const types = [
     0x01  // Булево
 ];
 
-function decode(data, id) {
+function decode(data) {
 
     const result = {};
 
